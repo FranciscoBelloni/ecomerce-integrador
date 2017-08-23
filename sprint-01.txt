@@ -1,0 +1,38 @@
+El día de hoy (22/08/17) damos por inicio el trabajo integrador.
+
+A continuación se desarrolla la consigna de este 1er sprint.
+
+El trabajo integrador el cual da comienzo hoy y se extenderá hacia el final del curso parte de una de tres ramas la cual debe ser elegida al comenzar.
+
+Las tres ramas son:
+
+- E-commerce
+
+
+Cada Sprint tendrá una duración aproximada de 10 días en donde se les dará a cada grupo una consigna obligatoria a entregar.  
+
+Previo o inclusive en la fecha de entrega cada grupo debe revisar con el docente lo pactado de manera presencial pudiendo utilizar tiempo de clase, recreos o en el espacio de co-learning para tal fin.
+
+La entrega final debe ser a través del campus cuando esté habilitada la función de "Entrega final" en un archivo comprimido.
+
+Todos los sprints deben estar terminados al final de la cursada para la aprobación del curso en cuyo momento habrá una presentación del trabajo en donde se busca que los alumnos cuenten tanto los problemas y soluciones funcionales como técnicos que encontraron en el camino. Se recomienda dejar asentado internamente dichos eventos durante la cursada.
+
+-----------
+
+Descripción del Sprint número 1
+
+Fecha de entrega: Martes 12/09 
+
+El cliente pide tener una home del sitio que presente la idea del sitio en sí de forma moderna y elegante.
+
+El cliente pide que el sitio cuente con una página (completa a nivel visual pero no funcional) que permita registrar a los usuarios mediante un formulario pidiendo los datos típicos en una registración.
+
+El cliente pide que el sitio cuente con una página (completa a nivel visual pero no funcional) que permita que un usuario ingrese al sitio mediante un formulario. Este formulario debe incluir el "Recordarme" y una parte que permita indicar si el usuario olvidó su contraseña.
+
+El cliente pide contar con una página con al menos 5 preguntas frecuentes en su sitio.
+
+El cliente pide que se pueda navegar el sitio entre las 4 páginas de manera fluida.
+
+El cliente pide que el estilo del sitio sea común a las 4 páginas.
+
+El cliente pide que las páginas se vean de forma cómoda en dispositivos móviles.
